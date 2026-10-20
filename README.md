@@ -1,11 +1,11 @@
 # 🚩 FlagForge
 
-> **Zero-Latency Feature Flagging, Canary Rollout & Remote Config Engine**
+[![Live on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://flagforge-kappa.vercel.app)
+[![React 19](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://flagforge-kappa.vercel.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript)](https://flagforge-kappa.vercel.app)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev/)
+> **Live Demo:** [https://flagforge-kappa.vercel.app](https://flagforge-kappa.vercel.app)  
+> **Zero-Latency Feature Flagging, Canary Rollout & Remote Config Engine on Vercel**
 
 FlagForge enables development teams to decouple software deployment from feature release. Toggle kill-switches, conduct gradual percentage rollouts (canary releases), and target users by attributes—all evaluated locally in **0.001ms** with zero network round-trips.
 

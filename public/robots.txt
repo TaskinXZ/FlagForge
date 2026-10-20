@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flagforge-kappa.vercel.app/sitemap.xml
